@@ -1,0 +1,112 @@
+[
+    {
+        "id":1,
+        "depot_name":"Motijheel Bus Depot",
+        "route":"Dhaka-Tarakandi",
+        "number_of_buses":82,
+        "name":"BRTC",
+        "img": "./images/bus11.jpg",
+        "location":"Bangladesh",
+        "time":"3hr",
+        "price":100
+        },
+        {
+            "id":2,
+            "depot_name":"Gazipur Bus Depot",
+            "route":"Gazipur-Motijheel",
+            "number_of_buses":54,
+            "name":"BRTC",
+            "img": "./images/bus12.jpg",
+            "location":"Bangladesh",
+            "time":"2hr",
+            "price":200
+            },
+            {
+                "id":3,
+                "depot_name":"Narayanganj Bus Depot",
+                "route":"Dhaka-Netrokona",
+                "number_of_buses":80,
+                "name":"BRTC",
+                "img": "./images/bus13.jpg",
+                "location":"Bangladesh",
+                "time":"6hr",
+                "price":260
+                },
+                {
+                    "id":4,
+                    "depot_name":"Rangpur Bus Depot",
+                    "route":"Rangpur-Gaibandha",
+                    "number_of_buses":30,
+                    "name":"BRTC",
+                    "img": "./images/bus14.jpg",
+                    "location":"Bangladesh",
+                    "time":"6hr",
+                    "price":450
+                    },
+                    {
+                        "id":5,
+                        "depot_name":"Comilla Bus Depot",
+                        "route":"Comilla-Dhaka",
+                        "number_of_buses":35,
+                        "name":"BRTC",
+                        "img": "./images/bus15.jpg",
+                        "source":"Dhaka",
+                        "time":"2hr 30m",
+                        "price":250
+                        },
+                        {
+                            "id":6,
+                            "depot_name":"Sylhet Bus Depot",
+                            "route":"Sylhet-Bogra",
+                            "number_of_buses":17,
+                            "name":"BRTC",
+                            "img": "./images/bus16.jpg",
+                            "location":"Bangladesh",
+                            "time":"13hr 28m"
+                            ,"price":880
+                            },
+                            {
+                            "id":7,
+                            "depot_name":"Barisal Bus Depot",
+                            "route":"Kuakata-Khulna",
+                            "number_of_buses":36,
+                            "name":"BRTC",
+                            "img": "./images/bus17.jpg",
+                            "location":"Bangladesh",
+                            "time":"21hr 3m",
+                            "price":900
+                            },
+                            {
+                            "id":8,
+                            "depot_name":"Chittagong Bus Depot",
+                            "route":"Chittagong-Bandarban",
+                            "number_of_buses":46,
+                            "name":"BRTC",
+                            "img": "./images/bus18.jpg",
+                            "location":"Bangladesh",
+                            "time":"10hr",
+                            "price":800
+                        },
+                            {
+                                "id":9,
+                                "depot_name":"Bogra Bus Depot",
+                                "route":"Bogra-Dinajpur",
+                                "number_of_buses":40,
+                                "name":"BRTC",
+                                "img": "./images/bus19.jpg",
+                                "location":"Bangladesh",
+                                "time":"8hr",
+                                "price":350
+                            },
+                                {
+                                    "id":10,
+                                    "depot_name":"Khulna Bus Depot",
+                                    "route":"Khulna-Barisal",
+                                    "number_of_buses":20,
+                                    "name":"BRTC",
+                                    "img": "./images/bus20.jpg",
+                                    "location":"Bangladesh",
+                                    "time":"8hr",
+                                    "price":500
+                                    }
+                                ]

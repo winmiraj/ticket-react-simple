@@ -1,0 +1,33 @@
+.cart{
+  background-color: rgb(209, 223, 236);
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px grey;
+  margin-left: 10px;
+  width: 270px;
+
+}
+.cart-inf{
+  padding: 5px;
+}
+.bus-img{
+  margin-top: 15px;
+  width: 230px;
+  border-radius: 10px;
+}
+.btn-buy{
+   
+    margin-bottom: 10px;
+    background-color: coral;
+    border: 1px solid coral;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    height: 30px;
+
+}
+.phone{
+  color:green;
+  font-size: 25px;
+  margin-bottom: 5px;
+  margin-right:20px ;
+}
