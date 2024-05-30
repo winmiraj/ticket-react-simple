@@ -1,6 +1,6 @@
 # BRTC Online Bus Ticket Sales
 
-This website link [Create React App](https://github.com/facebook/create-react-app).
+This website link: https://ticket-react-simple.netlify.app/
 
 ***
 ##### In the project directory, we can use:
